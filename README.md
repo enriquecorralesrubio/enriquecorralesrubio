@@ -6,4 +6,4 @@ In past experiences, I have developed a solid understanding of web-related techn
 
 :video_game:  MyVideogameList :video_game: 
 
-I have developed MyVideogameList, a web application built with Angular (frontend) and Symfony (backend). In it, you can create a list to organize your own video games and many other features. Check it out if you like! :rocket:
+I have developed MyVideogameList, a web application built with Angular (frontend) and Symfony (backend). In it, you can create a list to organize your own video games and many other features. Check out the repository's README for more information! :rocket:
